@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra/base'
 require 'sinatra/assetpack'
 
-class UberUrlShortener < Sinatra::Base
+class Sintde < Sinatra::Base
 	set :root, File.dirname(__FILE__)
 	set :bind, '0.0.0.0'
 
