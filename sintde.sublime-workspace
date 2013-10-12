@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"each",
+				"each_value"
+			],
+			[
+				"Shema",
+				"shemaPJ"
+			],
+			[
+				"ucita",
+				"ucitaj_Hsh"
+			],
+			[
+				"puni",
+				"puni_template"
+			],
+			[
+				"naslov",
+				"naslovnaPJ"
+			],
+			[
+				"na",
+				"naslovnaPC"
+			],
+			[
+				"naslo",
+				"naslovnaPC"
+			],
+			[
+				"pg",
+				"pg_002"
+			],
+			[
+				"ne",
+				"next_item"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"Un",
+				"UnosProsleGodine"
+			],
+			[
+				"Unos",
+				"UnosKljuceva"
+			],
+			[
+				"I",
+				"Ispisivanje"
+			],
+			[
+				"Bu",
+				"Budgeta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sintde.rb",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 108.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Program Files/SublimeText2/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Program Files/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/Program Files/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+		"/F/temp/SublimeProjekti/ruby_koans/pdf_eater/100vr.rb",
+		"/F/temp/SublimeProjekti/ruby_koans/pdf_eater/lib/PDF_eater/pdf_init.rb",
+		"/F/temp/SublimeProjekti/ruby_koans/pdf_eater/PDF_E.rb",
+		"/E/projekti/PDF_eater/Base.rb",
+		"/E/projekti/PDF_eater/Base1.rb",
+		"/E/projekti/PDF_eater/lib/pdf_stamper.rb",
+		"/E/projekti/09_13_food_finder_final/init.rb",
+		"/E/pdf_fdf/lib/pdf/fdf/attributes.rb",
+		"/E/pdf_fdf/lib/pdf/fdf/dump_fields_parser.rb",
+		"/E/pdf_fdf/lib/pdf/fdf/field.rb",
+		"/E/pdf_fdf/lib/pdf/fdf/field_loader.rb",
+		"/E/pdf_fdf/lib/pdf/fdf/version.rb",
+		"/E/pdf_fdf/lib/pdf/fdf/gen.rb",
+		"/E/pdf_fdf/lib/pdf/fdf.rb",
+		"/E/pdf_fdf/pdf-fdf.gemspec",
+		"/E/pdf_fdf/pdf-fdf-0.1.0.gem",
+		"/E/pdf_fdf/Rakefile",
+		"/E/projekti/PDF_eater/test/TEMPLATE/TEST.xfdf",
+		"/E/projekti/PDF_eater/TEST.fdf",
+		"/E/projekti/PDF_eater/test/TEMPLATE/TEST.fdf",
+		"/E/projekti/PDF_eater/test/TEMPLATE/input.xfdf",
+		"/E/projekti/PDF_eater/lib/csv_parse.rb",
+		"/E/projekti/PDF_eater/lib/Base.rb",
+		"/C/Ruby192/lib/ruby/gems/1.9.1/gems/documenter-0.0.5/lib/documenter.rb",
+		"/C/Ruby192/lib/ruby/gems/1.9.1/tcocca-active_pdftk/Rakefile",
+		"/C/Ruby192/lib/ruby/gems/1.9.1/tcocca-active_pdftk/Gemfile.lock",
+		"/C/Ruby192/lib/ruby/1.9.1/rubygems/custom_require.rb",
+		"/C/Ruby192/lib/ruby/gems/1.9.1/tcocca-active_pdftk/active_pdftk.gemspec",
+		"/E/projekti/koans/closures-in-ruby2.rb",
+		"/E/projekti/koans/closures-in-ruby.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/Dpatt/lib/TemplatMeth.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/post_comment_ORIG.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/Dpatt/lib/Iterator.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/Dpatt/lib/Observer.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/Dpatt/lib/Composit.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/post_comment_DHH.rb",
+		"/C/Users/david/Documents/Downloads/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/david/Documents/Downloads/ruby/projekti/koans/closures-in-ruby.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/ruby/projekti/Dpatt/lib/StrategyPatt.rb",
+		"/C/Users/david/Documents/Osobni/_sql/regulacija_error_excel",
+		"/C/Users/david/Documents/Osobni/_sql/makni_visak.sql",
+		"/F/Program Files/Notepad++/_sql/regulacija_error_excel",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/David/Desktop/GeneralHashFunctions_-_Ruby/GeneralHashFunctions.rb",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/test/1",
+		"/C/Documents and Settings/David/My Documents/Osobni/ants/ants.rb",
+		"/C/Documents and Settings/David/My Documents/Osobni/ants/MyBot.rb",
+		"/C/Documents and Settings/David/My Documents/Osobni/ants/VERSION",
+		"/C/Documents and Settings/David/Desktop/USALI_IZVJ.xml",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/test/project_1/2",
+		"/C/Documents and Settings/David/Desktop/media-queries.css",
+		"/C/Documents and Settings/David/Desktop/style.css",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
+		"/C/Documents and Settings/David/Desktop/New Folder/css/inuit.css",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/Default/Base File (Windows).sublime-settings",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/Default/Base File.sublime-settings",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/Default/Global.sublime-settings",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2 20110130/test/1",
+		"/C/Documents and Settings/David/My Documents/osobni/_Lua/Chapter 05/Exercises/solution_1.lua",
+		"/C/Documents and Settings/David/My Documents/osobni/_Lua/Chapter 05/sortuniq.lua",
+		"/C/Documents and Settings/David/My Documents/osobni/_Lua/Chapter 05/Exercises/solution_7.lua",
+		"/C/Documents and Settings/David/My Documents/osobni/_Lua/Chapter 03/Exercises/solution_2.lua",
+		"/C/Documents and Settings/David/My Documents/osobni/_Lua/Chapter 03/Exercises/solution_5.lua",
+		"/C/Documents and Settings/David/My Documents/osobni/_Lua/Chapter 04/Exercises/solution_4.lua",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2 20110130/Data/Packages/Lua/Lua.sublime-build",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2 20110130/Data/Packages/Haskell/Haskell.sublime-build",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2 20110130/Data/Packages/Makefile/Make.sublime-build",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2 20110130/Data/Pristine Packages/Lua.sublime-package",
+		"/C/Documents and Settings/David/My Documents/Downloads/Sublime Text 2 20110130/Data/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\projekti\\PDF_eater"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"pj_shem",
+			"shema_po_pj",
+			"dir",
+			"drkt",
+			"Test",
+			"test",
+			"Text",
+			"end"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rezultat",
+			"@hash_lista",
+			"end;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sintde.rb",
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 225.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/projekti/09_13_food_finder_final/food_find.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}
